@@ -1,8 +1,8 @@
 {
   "name": "Gitcolor - Github Contribution Themer",
   "short_name": "Gitcolor",
-  "version": "0.1.6",
-  "description": "Set different themes to the GitHub contribution graph",
+  "version": "0.2.0",
+  "description": "Apply a random theme to the GitHub contribution graph",
   "permissions": ["storage"],
   "host_permissions": ["*://github.com/*"],
   "background": {
@@ -24,9 +24,6 @@
     "16": "assets/favicon-16x16.png",
     "24": "assets/favicon-24x24.png",
     "32": "assets/favicon-32x32.png"
-  },
-  "action": {
-    "default_popup": "popup.html"
   },
   "manifest_version": 3
 }
