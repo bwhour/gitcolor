@@ -1,3 +1,3 @@
 chrome.runtime.onInstalled.addListener(() => {
-  console.log("Content Script Example extension installed.");
+  console.log("Gitcolor extension installed.");
 });
