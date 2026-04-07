@@ -17,12 +17,12 @@ let cachedRandomTheme = null;
 let containerObserverRegistered = false;
 
 const randomThemePalettes = [
-  ["#010409", "#ffd166", "#f4a261", "#e76f51", "#ff006e"],
-  ["#010409", "#caf0f8", "#90e0ef", "#48cae4", "#4361ee"],
-  ["#010409", "#d9ed92", "#bef264", "#4ade80", "#06d6a0"],
-  ["#010409", "#fbcfe8", "#f9a8d4", "#f472b6", "#db2777"],
-  ["#010409", "#ffd6a5", "#ffadad", "#ff8fab", "#f72585"],
-  ["#010409", "#ccfbf1", "#5eead4", "#14b8a6", "#0ea5e9"],
+  ["#010409", "#e6a820", "#f4a261", "#e76f51", "#ff006e"],
+  ["#010409", "#5bbcd6", "#90e0ef", "#48cae4", "#4361ee"],
+  ["#010409", "#8cbf3f", "#bef264", "#4ade80", "#06d6a0"],
+  ["#010409", "#e88fc0", "#f9a8d4", "#f472b6", "#db2777"],
+  ["#010409", "#e8a070", "#ffadad", "#ff8fab", "#f72585"],
+  ["#010409", "#4ec9b0", "#5eead4", "#14b8a6", "#0ea5e9"],
 ];
 
 function applyTheme(colors) {
